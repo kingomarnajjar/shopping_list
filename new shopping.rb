@@ -6,6 +6,7 @@ shoppingList =[
     "Guacamole",
   strippers  =
     [
+"update testing"
       "candy",
     "lollipop",
     "jelly"]
